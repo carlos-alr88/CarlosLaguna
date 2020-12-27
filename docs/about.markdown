@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I was born and raised in Mexico city. I completed my bachelor's degree in Computer Science from [UNAM](http://www.fciencias.unam.mx/licenciatura/resumen/104/1556).  
+After graduation I moved to Guadalajara, Jalisco in Mexico to work for Oracle where I contributed to the Database development for 5 years.  
+In 2017, I moved to Seattle to work for Microsoft in different projects.  I currently contribute as a Data Engineer building data pipelines that power the bussiness analytics to make better decisions.  
+In 2020 I completed my Master's in Computer Science at Georgia Institue of Technology; my specialization is Machine Learning.
