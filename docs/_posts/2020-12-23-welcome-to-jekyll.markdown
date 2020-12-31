@@ -1,29 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Online Masters at Georgia Tech"
 date:   2020-12-23 23:38:44 -0800
-categories: jekyll update
+categories: OMCS masters
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Completing the Online Masters in Computer Science at The Gorgia Institue of Techology was one of the most rewarding experiences in my academic preparation as a Computer Scientist and Software Engineer.
 
-Jekyll requires blog post files to be named according to the following format:
+My journey started back in 2015 when I read about the new Online program launched by one of the most prestigious universities in the United States for around 7,000 dollars.  The price tag and the university reputation grabbed my attention immediately and I felt I had to take that opportunity to advance my career.  
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I delayed my application to Fall 2016 of two reasons:
+  - The number of courses was limited.
+  - I thought the very first generation will unveil areas where the program can be improved. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The application process is straight forward for applicants with a Computer Science background and it is more difficult for people who are transitioning from other careers.  
+The application requirements are:
+  - TOEFL test
+  - Statement of Purpose
+  - Resume
+  - Application fee
+  - Academic recommendations 
 
-Jekyll also offers powerful support for code snippets:
+The graduation requirements are very simple, the graduation candidate needs to finish 10 classes with minimum grade of B. There is no Thesis option or requirement.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Courses I took in the program
+## Computability and Algorithms
+This course covers basic and advanced topics in algorithm design and analysis.
+Most of the content in this class can be found in CLRS text book.
+## Knowledge Based AI
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Artificial Intelligence for robotics
+## Machine Learning
+## Machine Learning for Trading
+## Reinforcement Learning
+## Artificial Intelligence
+## Data and Visual Analytics
+## DB concepts and Design
+## Time Series Analysis
