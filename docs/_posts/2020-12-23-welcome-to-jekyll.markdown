@@ -22,17 +22,34 @@ The application requirements are:
 
 The graduation requirements are very simple, the graduation candidate needs to finish 10 classes with minimum grade of B. There is no Thesis option or requirement.
 
-# Courses I took in the program
-## Computability and Algorithms
+
+# Computability and Algorithms
 This course covers basic and advanced topics in algorithm design and analysis.
 Most of the content in this class can be found in CLRS text book.
-## Knowledge Based AI
+# Knowledge Based AI
 
-## Artificial Intelligence for robotics
-## Machine Learning
-## Machine Learning for Trading
-## Reinforcement Learning
-## Artificial Intelligence
-## Data and Visual Analytics
-## DB concepts and Design
-## Time Series Analysis
+# Artificial Intelligence
+- Game Theory
+- Search using A*
+- Hill Climbing and Simulated Annealing
+- Constrain satisfaction problems
+- Bayes Networks, Probabilistic Inference, Sampling
+- Basic ML concepts
+- Mixture models
+- Logical Agents and First Order Logic
+
+# Artificial Intelligence for robotics
+# Machine Learning
+# Machine Learning for Trading
+# Reinforcement Learning
+# Data and Visual Analytics
+# DB concepts and Design
+# Time Series Analysis
+- Statistics concepts
+- Trend Estimation
+- Seasonality
+- Stationary Processes
+- Causal and Invertible Processes
+- ACF and PACF
+- ARMA model and parameter estimation
+- VAR model for multivariate analysis
