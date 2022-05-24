@@ -11,3 +11,5 @@ After graduation I moved to Guadalajara, Jalisco in Mexico to work for Oracle wh
 In 2017, I moved to Seattle to work for Microsoft in different projects.  I currently contribute as a Data Engineer building data pipelines that power the bussiness analytics to make better decisions.  
   
 In 2020 I completed my Master's in Computer Science at [Georgia Institue of Technology](http://www.omscs.gatech.edu/), my specialization is Machine Learning.
+
+I work as a Machine Learning Engineer at Apple
